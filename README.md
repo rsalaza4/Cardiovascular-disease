@@ -1,11 +1,11 @@
 # Cardiovascular disease prediction
 
-# Requirements
+## Requirements
 
 • Python 3.6
 
 • Jupyter Notebook
 
-# Dependencies
+## Dependencies
 
-# Data sets
+## Data sets
