@@ -7,4 +7,11 @@
 
 ## Dependencies
 
-## Data sets
+* [numpy] (https://numpy.org/)
+* [pandas] (https://pandas.pydata.org/)
+* [matplotlib] (https://matplotlib.org/)
+* [scikit-learn] (https://scikit-learn.org/stable/)
+
+## Datasets
+
+* [Cardiovascular disease](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
