@@ -7,10 +7,10 @@
 
 ## Dependencies
 
-* [numpy] (https://numpy.org/)
-* [pandas] (https://pandas.pydata.org/)
-* [matplotlib] (https://matplotlib.org/)
-* [scikit-learn] (https://scikit-learn.org/stable/)
+* [numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [matplotlib](https://matplotlib.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
 
 ## Datasets
 
