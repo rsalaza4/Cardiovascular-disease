@@ -1,4 +1,4 @@
-# Cardiovascular diseases
+# Cardiovascular disease prediction
 
 # Requirements
 
