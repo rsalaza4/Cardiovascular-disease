@@ -14,6 +14,6 @@ This repository contains the Python code and dataset used for the development of
 * [matplotlib](https://matplotlib.org/)
 * [scikit-learn](https://scikit-learn.org/stable/)
 
-## Datasets
+## Data sets
 
 * [Cardiovascular disease](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
