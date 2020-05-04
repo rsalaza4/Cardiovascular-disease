@@ -7,7 +7,7 @@ This repository contains the Python code and dataset used for the development of
 * [Python 3.6](https://www.python.org/downloads/release/python-360/)
 * [Jupyter Notebook](https://jupyter.org/)
 
-## Dependencies
+## Libraries
 
 * [numpy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
